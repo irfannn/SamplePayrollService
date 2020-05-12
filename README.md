@@ -1,5 +1,7 @@
 # SamplePayrollService
 
+For testing the application please use Postman or Fiddler.
+
 Endpoint:
 https://localhost:{port}/api/PayrollService/deu
 
